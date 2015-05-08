@@ -1,4 +1,5 @@
 // run nodeuint test.js. require global installatin of nodeunit
+var priority = require('../index.js');
 
 var createPrioritySumInput = function(times,vals,thres){
 	var input = {};
