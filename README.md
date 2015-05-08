@@ -6,8 +6,7 @@ The priority of a task is simply its position in the array. The first task has t
 ###API
 ```
 var priority = require('priority-parallel')
-priority(tasks,mergeOptions,callback)
-
+##### priority(tasks,mergeOptions,callback)
 ```
 
 
