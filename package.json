@@ -1,0 +1,30 @@
+{
+  "name": "priority-parallel",
+  "version": "0.1.0",
+  "description": "later",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frlender/priority-parallel"
+  },
+  "keywords": [
+    "priority",
+    "parallel",
+    "queue",
+    "npm",
+    "javascript"
+  ],
+  "author": "Qiaonan <geonann@gmail.com> (http://frlender.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frlender/priority-parallel/issues"
+  },
+  "homepage": "https://github.com/frlender/priority-parallel"
+}
